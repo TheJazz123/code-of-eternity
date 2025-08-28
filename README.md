@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ### 3. Run the game:
 
 ```bash
-python CoE.py
+python COE.py
 ```
 
 ---
@@ -45,13 +45,12 @@ python CoE.py
 Code-of-Eternity/
 │── README.md               <- This file
 │── requirements.txt        <- Python dependencies
-│── CoE.py                  <- Main game script
+│── COE.py                  <- Main game script
 │── data.py                 <- Realm/world data
 │── unpacker.py             <- Helper scripts
 │── /dialogues              <- Dialogue text & scripts
 │── /logicgate              <- Logic puzzles
 │── /music                  <- Game music & sound effects
-│── /saves                  <- Player saves & statistics (ignored by Git)
 │── .gitignore              <- Ignore unnecessary files (cache, saves, binaries)
 ```
 
