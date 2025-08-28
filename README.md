@@ -1,6 +1,3 @@
-Perfect ✅ — here’s a **professional README.md** you can directly use for your GitHub repo. It’s clean, recruiter-friendly, and shows off your project well:
-
----
 
 # 🕹️ Code of Eternity
 
@@ -94,7 +91,3 @@ Electronics & Communication Engineering @ RV College of Engineering
 Interests: VLSI, Embedded Systems, Hardware Design, Game Design
 
 ---
-
-👉 Once you upload this, it’ll look **professional and polished** to anyone visiting your repo.
-
-Would you like me to also make you a **shorter version of README.md** (just 2–3 sections) so you can choose between a **professional detailed one** and a **minimal sleek one** depending on the audience?
