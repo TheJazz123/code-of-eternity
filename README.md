@@ -84,6 +84,20 @@ Code-of-Eternity/
 
 ---
 
+### 🎵 Music Assets
+
+The game’s music has been separated into a **different repository** due to licensing restrictions.
+
+You can access it here: [**Music Repository Link**](https://github.com/TheJazz123/coe-music)
+
+**Instructions:**
+
+1. Clone or download the music repository.
+2. Place the music files in the `music/` folder of this game’s directory (create it if it doesn’t exist).
+3. The game will automatically detect and play the music during gameplay.
+
+---
+
 ## ⚡ Author
 
 👤 **Thejas Bhat**
