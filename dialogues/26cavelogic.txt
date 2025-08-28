@@ -1,0 +1,10 @@
+
+A system glitch has appeared. Solve it to proceed.
+
+Byte: A logic gate already? No choice.
+
+The gates: NOR -> NAND.  
+Switches A and B control NOR.  
+The NOR output and Switch C control NAND.  
+Goal: make the final output '1' (0 for OFF, 1 for ON).
+

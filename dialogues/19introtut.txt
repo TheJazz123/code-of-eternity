@@ -1,0 +1,7 @@
+
+As you awaken, a soft glow beckons.
+
+Algo: Welcome, Byte. I am Algo, guardian of this realm. Let me guide you through Scriptoria.
+
+Algo: Start with movement. You can move north, south, east, or west.
+

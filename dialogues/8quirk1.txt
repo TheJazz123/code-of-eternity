@@ -1,0 +1,21 @@
+???: Ah, a new visitor! Welcome!
+
+Quirk: I am Quirk, keeper of coding flora. What brings you here?
+
+Byte explains.
+
+Quirk: I know where the key is, but what do I get?
+
+Byte: I will find it myself.
+
+Quirk: WAIT! I need help. A mechabot guards a tome near the ponds. Could you get it?
+
+Byte: What is a mechabot?
+
+Quirk: Zeref, once our master, is corrupted. Mechabots collect data for him. Help me, please?
+
+Byte: What do I get?
+
+Quirk: Fine! 500 coins. There is also a teleport crystal nearby. Find and use it.
+
+Byte: Deal.

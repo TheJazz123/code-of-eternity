@@ -1,0 +1,8 @@
+
+Algo: Scriptoria is full of challenges and riddles. Let us go over some puzzles you may face.
+
+First, you might encounter fragmented memories.
+Example: 'the ... discovered ... Byte ... secret chamber ... within ... Scriptoria.'
+
+Rearrange the fragments into a coherent sentence (lowercase is fine):
+

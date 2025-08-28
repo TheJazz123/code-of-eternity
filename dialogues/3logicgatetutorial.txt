@@ -1,0 +1,5 @@
+
+Algo: Let's test your logic with an AND Gate. 
+It unlocks only if both inputs are ON (1). 
+Adjust the switches (1 for ON, 0 for OFF) to activate it.
+

@@ -1,0 +1,7 @@
+
+Algo: The AND Gate unlocks only if both inputs are ON (1). 
+The OR Gate unlocks if at least one input is ON (1). 
+The NOT Gate inverts the input, turning ON (1) to OFF (0) and vice versa.
+
+The output of the AND Gate is used as an input for the OR Gate. 
+Your goal is to adjust the switches so that the final output after the NOT Gate is ON (1).

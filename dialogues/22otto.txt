@@ -1,0 +1,17 @@
+
+Otto: Welcome, new customer! How can Otto help?
+
+Byte: Just passing by.
+
+Otto: No coincidences! Something must interest you.
+
+Byte: I am broke.
+
+Otto: Not for long I sense! I have a prototype for you to access my shop anytime, with discounts.
+
+Byte: What do you sell?
+
+Otto: An adventurer's dream: debugs, hints, and exclusive tools.
+
+You can now buy from the shop using coins.
+

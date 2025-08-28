@@ -1,0 +1,5 @@
+			GAME OVER
+
+It seems you were not the chosen one. The world falls to despair.
+
+Thank you for playing... Exiting.

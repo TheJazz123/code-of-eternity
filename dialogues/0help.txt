@@ -1,0 +1,13 @@
+
+look(l) - Examine your surroundings.
+look at [item] - Examine a specific item.
+go [direction] - Move in the specified direction (north, south, east, west).
+take [item] - Pick up an item.
+use - Use an item in your inventory.
+inventory(i) - Check the items you have.
+map(m) - Display a minimap of Scriptoria.
+health(h) - Display current health.
+clear(c) - Clear the screen.
+currency - Show coin count.
+stat - Display player info.
+exit(q) - Exit the game.

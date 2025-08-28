@@ -1,0 +1,10 @@
+
+- 'go [direction]': Move in a direction (north, south, east, west)
+- 'look': Observe your surroundings
+- 'look at [item]': Inspect a specific item in detail
+- 'take [item]': Take an item and add it to your inventory
+- 'use': Use an item in your inventory.
+- 'inventory': View the items you're carrying.
+- 'map': Display the minimap of Scriptoria
+- 'exit': Quit the game
+You'll learn more commands as you progress, but these basics will get you started.

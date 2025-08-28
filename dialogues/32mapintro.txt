@@ -1,0 +1,4 @@
+Welcome to the minimap of Scriptoria! It's laid out in a grid. Here's how to read it:
+. - Empty Space (Inaccessible PLaces)
+O - Location (Accessible Places)
+X - Your Current Position

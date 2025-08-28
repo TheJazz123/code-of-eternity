@@ -1,0 +1,13 @@
+
+Algo: Hidden ancient code scripts may reveal secrets.
+
+Decipher this snippet:
+
+def mystery(n):
+    if n == 0:
+        return 1
+    else:
+        return n * mystery(n-1)
+
+What is the value of mystery(5)?
+
