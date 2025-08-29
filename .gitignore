@@ -1,6 +1,7 @@
 __pycache__/
+assets/
 music/
 *.bin
 *.pyc
-*.jpg
+
 
