@@ -64,6 +64,22 @@ Code-of-Eternity/
 * Defeat the **Four Commandments**, generals of the final villain, to reach the endgame.
 
 ---
+### Minimap View
+![Minimap](minimap.jpg)
+
+### Player Stats
+![Player Stats](stats.jpg)
+
+### Item Shop
+![Shop](itemshop.jpg)
+
+### Liberation of an Area
+![Liberation](victory.jpg)
+
+### Zero Health (Game Over)
+![Game Over](defeat.jpg)
+
+---
 
 ## 🚀 Future Improvements
 
