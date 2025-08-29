@@ -65,19 +65,19 @@ Code-of-Eternity/
 
 ---
 ### Minimap View
-![Minimap](minimap.jpg)
+![Minimap](assets/minimap.jpg)
 
 ### Player Stats
-![Player Stats](stats.jpg)
+![Player Stats](assets/stats.jpg)
 
 ### Item Shop
-![Shop](itemshop.jpg)
+![Shop](assets/itemshop.jpg)
 
 ### Liberation of an Area
-![Liberation](victory.jpg)
+![Liberation](assets/victory.jpg)
 
 ### Zero Health (Game Over)
-![Game Over](defeat.jpg)
+![Game Over](assets/defeat.jpg)
 
 ---
 
